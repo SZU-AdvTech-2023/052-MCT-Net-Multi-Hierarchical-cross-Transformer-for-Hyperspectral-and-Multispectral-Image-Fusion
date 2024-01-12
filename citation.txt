@@ -1,0 +1,6 @@
+@article{REPO052,
+    author = "Wang, Xianghai and Wang, Xinying and Song, Ruoxi and Zhao, Xiaoyang and Zhao, Keyun",
+    journal = "Knowledge-based systems",
+    title = "{MCT-Net: Multi-Hierarchical cross Transformer for Hyperspectral and Multispectral Image Fusion}",
+    year = "2023"
+}
